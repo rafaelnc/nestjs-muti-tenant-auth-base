@@ -1,5 +1,5 @@
 ## 🚀 Base Project with Turborepo, NestJS Multi-Tenants, and React + Vite Frontend.<br>
-This is a base project designed to serve as a starting point for other projects, leveraging the benefits of a monorepo with Turborepo, a robust backend architecture with NestJS and multi-tenancy support, and a modern frontend using React with Vite.<br>
+This is a base project designed to serve as a starting point for other projects, leveraging the benefits of a monorepo with Turborepo, a robust backend architecture with NestJS and multi-tenancy support, and a modern frontend using React with Vite. The backend also includes JWT authentication for secure access control.<br>
 
 ## 📚 Overview<br>
 This project is crafted to facilitate the development of scalable and modular applications, providing a solid foundation and best practices for rapid project development.<br>
